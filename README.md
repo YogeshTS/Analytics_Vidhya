@@ -1,2 +1,2 @@
-# Analytics_Vidhya-
+# Analytics_Vidhya
 Analystics VIdhya hackathon
