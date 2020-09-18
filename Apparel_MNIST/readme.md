@@ -1,0 +1,1 @@
+Apparel_mnist submission
